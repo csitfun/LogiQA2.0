@@ -1,0 +1,17 @@
+name: logiqa
+dependencies:
+- nvidia::cudatoolkit=10.2.89
+- numpy
+- pillow
+- pip
+- python=3.6
+- pytorch::pytorch=1.4.0=py3.6_cuda11.7_cudnn8.0.5_0
+- scipy
+- tqdm
+- scikit-learn
+- tensorboard
+- tensorboardX
+- pip:
+  - transformers==2.8.0
+  - nltk
+  - wandb
