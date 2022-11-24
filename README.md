@@ -16,13 +16,13 @@ To construct LogiQA2.0 dataset, we:
 
 ## Datasets
 ### MRC
-The MRC part of LogiQA2.0 dataset can be found in the '/logiqa/DATA/LOGIQA' folder.
+The MRC part of LogiQA2.0 dataset can be found in the `/logiqa/DATA/LOGIQA` folder.
 
-'train.txt': train split of the dataset in json lines
+`train.txt`: train split of the dataset in json lines
 
-'dev.txt': dev split of the dataset in json lines
+`dev.txt`: dev split of the dataset in json lines
 
-'test.txt': test split of the dataset in json lines
+`test.txt`: test split of the dataset in json lines
 
 An example:
 ```
@@ -30,13 +30,13 @@ An example:
 ```
 
 ### NLI
-The NLI part of LogiQA2.0 dataset can be found in the '/logiqa2nli/DATA/QA2NLI' folder.
+The NLI part of LogiQA2.0 dataset can be found in the `/logiqa2nli/DATA/QA2NLI` folder.
 
-'train.txt': train split of the dataset in json lines
+`train.txt`: train split of the dataset in json lines
 
-'dev.txt': dev split of the dataset in json lines
+`dev.txt`: dev split of the dataset in json lines
 
-'test.txt': test split of the dataset in json lines
+`test.txt`: test split of the dataset in json lines
 
 An example:
 ```
@@ -45,7 +45,7 @@ An example:
 
 ## Baseline Guidance
 ### Requirements
-* python 3.5+
+* python 3.6+
 * pytorch 1.0+
 * transformers 2.8.0
 
@@ -53,6 +53,13 @@ We recommend to use conda to manage virtual environments:
 
 ```
 conda env update --name logiqa --file requirements.yml
+```
+### Logiqa
+The folder `logiqa` contains both the code and data to run baseline experiments of LogiQA2.0 MRC.
+
+To fine-tune the dataset, type following command in the :fax:
+```
+bash logiqa.sh
 ```
 
 
