@@ -57,11 +57,18 @@ conda env update --name logiqa --file requirements.yml
 ### Logiqa
 The folder `logiqa` contains both the code and data to run baseline experiments of LogiQA2.0 MRC.
 
-To fine-tune the dataset, type following command in the :fax:
+To fine-tune the dataset, type following command from the terminal in your :computer:
 ```
 bash logiqa.sh
 ```
+### Logiqa2nli
+The folder `logiqa2nli` contains both the code and data to run baseline experiments of LogiQA2.0 NLI.
 
+To fine-tune the dataset, type following command from the terminal in your :computer:
+```
+bash qa2nli.sh
+```
+Note: `./scripts` contains the scripts for running other NLI benchmarks.
 
 ## How to Cite
 ## Acknowledgment
