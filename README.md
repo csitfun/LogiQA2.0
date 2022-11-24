@@ -49,9 +49,9 @@ An example:
 
 We recommend to use conda to manage virtual environments:
 
-'''
+```
 conda env update --name logiqa --file requirements.yml
-'''
+```
 
 ## Results
 ## How to Cite
