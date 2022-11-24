@@ -55,7 +55,7 @@ We recommend to use conda to manage virtual environments:
 conda env update --name logiqa --file requirements.yml
 ```
 
-## Results
+
 ## How to Cite
-## Licence
 ## Acknowledgment
+We appreciate the suggestions and critical questions from the reviewers.
