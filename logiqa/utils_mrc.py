@@ -259,7 +259,7 @@ if _has_sklearn:
     def compute_metrics(task_name, preds, labels):
         assert len(preds) == len(labels)
         if task_name == "logiqa":
-            return {"acc_and_f1": acc_and_f1(labels, preds)}          
+            return {"acc": simple_accuracy(labels, preds)}          
         else:
             raise KeyError(task_name)
 
