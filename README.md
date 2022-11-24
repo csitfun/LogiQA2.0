@@ -48,9 +48,11 @@ An example:
 * transformers 2.8.0
 
 We recommend to use conda to manage virtual environments:
+
 '''
 conda env update --name logiqa --file requirements.yml
 '''
+
 ## Results
 ## How to Cite
 ## Licence
