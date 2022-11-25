@@ -58,7 +58,8 @@ An example:
 
 | Final Report |  |
 | --- | --- |
-| Project Duration | 2021/10/20 2021/12/3 |
+| provider | Speechocean |
+| Project Duration | 2021/10/20-2021/12/3 |
 | Agreed Speed | 20 questions per hour |
 | Actual Working Hour | 667 hours |
 | Cost | 6000 RMB |
