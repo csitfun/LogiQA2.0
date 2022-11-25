@@ -22,11 +22,21 @@ The MRC part of LogiQA2.0 dataset can be found in the `/logiqa/DATA/LOGIQA` fold
 
 `dev.txt`: dev split of the dataset in json lines
 
-`test.txt`: test split of the dataset in json lines
+`test.txt`: test split of the  dataset in json lines
+
+`train_zh.txt`: train split of the Chinese version of dataset in json lines
+
+`dev_zh.txt`: dev split of the Chinese version of dataset in json lines
+
+`test_zh.txt`: test split of the Chinese version of dataset in json lines
 
 An example:
 ```
 {"id": 10471, "answer": 0, "text": "The medieval Arabs had many manuscripts of the ancient Greek. When needed, they translate them into Arabic. Medieval Arab philosophers were very interested in Aristotle's Theory of Poetry, which was obviously not shared by Arab poets, because a poet interested in it must want to read Homer's poems. Aristotle himself often quotes Homer's poems. However, Homer's poems were not translated into Arabic until modern times.", "question": "Which of the following options, if true, strongly supports the above argument?", "options": ["Some medieval Arab translators have manuscripts of Homer poems in ancient Greek.", "Aristotle's Theory of Poetry is often quoted and commented by modern Arab poets.", "In Aristotle's Theory of Poetry, most of the content is related to drama, and medieval Arabs also wrote plays and performed them.", "A series of medieval Arab stories, such as Arab Night, are very similar to some parts of Homer's epic."], "type": {"Sufficient Conditional Reasoning": true, "Necessry Condtional Reasoning": true, "Conjunctive Reasoning": true}}
+```
+An example of the Chinese dataset:
+```
+{"id": 8018, "answer": 0, "text": "常春藤通常指美国东部的八所大学。常春藤一词一直以来是美国名校的代名词，这八所大学不仅历史悠久，治学严谨，而且教学质量极高。这些学校的毕业生大多成为社会精英，他们中的多数人年薪超过20万美元，有很多政界领袖来自常春藤，更有为数众多的科学家毕业于长春藤。", "question": "根据以上条件，下面那个选项一定为真:", "options": ["A.有些社会精英年薪超过20万美金", "B.有些政界领袖年薪不足20万美元", "C.有些科学家年薪超过20万美元", "D.有些政界领袖是社会精英"]}
 ```
 
 ### NLI
