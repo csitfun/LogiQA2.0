@@ -56,13 +56,23 @@ An example:
 
 ### Translation
 
-| LogiQA2.0 | Final Report |
+| Final Report |  |
 | --- | --- |
 | Project Duration | 2021/10/20 2021/12/3 |
 | Agreed Speed | 20 questions per hour |
 | Actual Working Hour | 667 hours |
 | Cost | 6000 RMB |
  
+Translation style/method:
+
+1. Maintain a unified style, and the translated English questions need to inherit the logic of the original questions;
+
+2. The pronoun in the question need to be unique, the translation needs to be unique and consistent without ambiguity;
+
+3. The translated English conforms to the form of a proper question, that is, it is a clear question from the perspective of the respondent;
+
+### Label consistency
+### Additional annotations
 
 ## Baseline Guidance
 ### Requirements
