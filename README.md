@@ -53,7 +53,7 @@ An example:
 {"label": "not entailed", "major_premise": ["Among the employees of a software company, there are three Cantonese, one Beijinger and three northerners"], "minor_premise": " Four are only responsible for software development and two are only responsible for product sales", "conclusion": "There may be at least 7 people and at most 12 people."}
 ```
 ## Annotations
-
+The translation and annotation work is outsourced to Speechocean, with the help of Microsoft Research Asia
 ### Translation
 
 | Final Report |  |
