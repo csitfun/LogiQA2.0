@@ -52,6 +52,14 @@ An example:
 ```
 {"label": "not entailed", "major_premise": ["Among the employees of a software company, there are three Cantonese, one Beijinger and three northerners"], "minor_premise": " Four are only responsible for software development and two are only responsible for product sales", "conclusion": "There may be at least 7 people and at most 12 people."}
 ```
+## Annotations
+
+### Translation
+| Project Duration | 2021/10/20-2021/12/3 |
+| Agreed Speed | 20 questions per hour |
+| Actual Working Hour | 667 hours |
+| Cost | 6000 RMB |
+ 
 
 ## Baseline Guidance
 ### Requirements
