@@ -60,7 +60,6 @@ The translation and annotation work is outsourced to [Speechocean](en.speechocea
 | --- | --- |
 | provider | Speechocean |
 | Project Duration | 2021/10/20-2021/12/3 |
-| Agreed Speed | 20 questions per hour |
 | Actual Working Hour | 667 hours |
 | Cost | 45000 RMB |
  
