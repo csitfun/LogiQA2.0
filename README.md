@@ -81,6 +81,7 @@ Reasoning types of each question is assigned by a total of 5 workers, each of th
 * python 3.6+
 * pytorch 1.0+
 * transformers 2.4.1
+* sklearn
 * tqdm
 * tensorboardX
 
