@@ -5,13 +5,13 @@ dependencies:
 - pillow
 - pip
 - python=3.6
-- pytorch::pytorch=1.4.0=py3.6_cuda11.7_cudnn8.0.5_0
+- pytorch::pytorch=1.10.2=py3.6_cuda11.7_cudnn8.0.5_0
 - scipy
 - tqdm
 - scikit-learn
 - tensorboard
 - tensorboardX
 - pip:
-  - transformers==2.8.0
+  - transformers==2.4.1
   - nltk
   - wandb
