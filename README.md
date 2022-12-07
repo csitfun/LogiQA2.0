@@ -72,7 +72,7 @@ Translation style/method:
 3. The translated English conforms to the form of a proper question, that is, it is a clear question from the perspective of the respondent;
 
 ### Label consistency
-The label credibility is mannually verified after the translation was done to maintain the truthfulness of the original text. 3 workers run a consistency test on each example, if 2 or more works give different answer compared to the original answer, the translation would be redone to guareentee the label is correct.
+The label credibility is mannually verified after the translation was done to maintain the truthfulness of the original text. 3 workers run a consistency test on each example, if 2 or more workers give different answer compared to the original answer, the translation would be redone to guareentee the label is correct.
 
 ### Additional annotations
 Reasoning types of each question is assigned by a total of 5 workers, each of them corresponds to one reasoning type. We give the description of reasoning types (which can be found in our paper) to the workers. The reasoning types of each question is a collection of 5 workers' decision.
