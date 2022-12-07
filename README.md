@@ -80,7 +80,9 @@ Reasoning types of each question is assigned by a total of 5 workers, each of th
 ### Requirements
 * python 3.6+
 * pytorch 1.0+
-* transformers 2.8.0
+* transformers 2.4.1
+* tqdm
+* tensorboardX
 
 We recommend to use conda to manage virtual environments:
 
