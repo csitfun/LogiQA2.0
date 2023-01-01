@@ -18,17 +18,24 @@ To construct LogiQA2.0 dataset, we:
 ### MRC
 The MRC part of LogiQA2.0 dataset can be found in the `/logiqa/DATA/LOGIQA` folder.
 
-`train.txt`: train split of the dataset in json lines
+`train.txt`: train split of the dataset in json lines.
 
-`dev.txt`: dev split of the dataset in json lines
+`dev.txt`: dev split of the dataset in json lines.
 
-`test.txt`: test split of the  dataset in json lines
+`test.txt`: test split of the  dataset in json lines.
 
-`train_zh.txt`: train split of the Chinese version of dataset in json lines
+`train_zh.txt`: train split of the Chinese version of dataset in json lines.
 
-`dev_zh.txt`: dev split of the Chinese version of dataset in json lines
+`dev_zh.txt`: dev split of the Chinese version of dataset in json lines.
 
-`test_zh.txt`: test split of the Chinese version of dataset in json lines
+`test_zh.txt`: test split of the Chinese version of dataset in json lines.
+
+`train_fol.zip` is the training data with AMR and FOL annotations. The file is too big so we compressed it.
+
+`dev_fol.jsonl` is the dev data with AMR and FOL annotations.
+
+`test_fol.jsonl` is the test data with AMR and FOL annotations.
+
 
 An example:
 ```
