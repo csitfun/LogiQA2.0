@@ -3,7 +3,20 @@ Logiqa2.0 dataset - logical reasoning in MRC and NLI tasks
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-> This repository contains the datasets and baseline codes for our paper [LogiQA2.0 - An Improved Dataset for Logic Reasoning in Question Answering and Textual Inference]()
+> This repository contains the datasets and baseline codes for our paper [LogiQA2.0 - An Improved Dataset for Logic Reasoning in Question Answering and Textual Inference](https://ieeexplore.ieee.org/abstract/document/10174688)
+
+## How to cite
+```
+@ARTICLE{10174688,
+  author={Liu, Hanmeng and Liu, Jian and Cui, Leyang and Teng, Zhiyang and Duan, Nan and Zhou, Ming and Zhang, Yue},
+  journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing}, 
+  title={LogiQA 2.0 — An Improved Dataset for Logical Reasoning in Natural Language Understanding}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-16},
+  doi={10.1109/TASLP.2023.3293046}}
+```
 ## About
 This is the version 2 of the LogiQA dataset, first released as a multi-choice reading comprehension dataset by our previous paper [LogiQA: A Challenge  Dataset for Machine Reading Comprehension with Logical Reasoning](https://arxiv.org/abs/2007.08124). 
 
