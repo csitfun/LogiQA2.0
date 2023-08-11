@@ -10,12 +10,13 @@ Logiqa2.0 dataset - logical reasoning in MRC and NLI tasks
 @ARTICLE{10174688,
   author={Liu, Hanmeng and Liu, Jian and Cui, Leyang and Teng, Zhiyang and Duan, Nan and Zhou, Ming and Zhang, Yue},
   journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing}, 
-  title={LogiQA 2.0 — An Improved Dataset for Logical Reasoning in Natural Language Understanding}, 
+  title={LogiQA 2.0—An Improved Dataset for Logical Reasoning in Natural Language Understanding}, 
   year={2023},
-  volume={},
+  volume={31},
   number={},
-  pages={1-16},
+  pages={2947-2962},
   doi={10.1109/TASLP.2023.3293046}}
+
 ```
 ## About
 This is the version 2 of the LogiQA dataset, first released as a multi-choice reading comprehension dataset by our previous paper [LogiQA: A Challenge  Dataset for Machine Reading Comprehension with Logical Reasoning](https://arxiv.org/abs/2007.08124). 
